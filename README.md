@@ -1,0 +1,55 @@
+# めろくる – Telephone
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+今なにしてる？こだまする声と声を
+残す Answering machine 君のこと消せない消えない
+始まった記念日 約束して Hold on me
+全てが鮮やかに Flash
+言うなれば君に夢中期待膨らんで宇宙漂うような
+サヨナラが唇をすり抜けて落ちる
+もう指が覚えるよ君のナンバー
+(おかけになった電話番号は・・・)
+ねえ出てよ Telephone Telephone
+声を聞かせてよ more&more
+ぶつかったこともどれも戻せない
+Still in love love love with you
+笑ったりふざけたり(I need you)
+ねえじゃれたりはもう無理？(Back to me)
+鳴らしてよ Telephone Telephone
+One more time
+(EDIT DELETE)
+綺麗な思い出だけ
+(COPY SAVE)
+それだけを抱えて
+何もかもが幻想 壊れてく I can’t stop
+Please stay with me babe
+涙の跡で滲んだポラロイド
+もう一度聞かせて君の声を
+(おかけになった電話番号は・・・)
+ねえ出てよ Telephone Telephone
+やり直せないの？二度と
+誓ったこともどれも叶わない
+Still in love love love with you
+笑ったりふざけたり(I need you)
+ねえじゃれたりはもう無理？(Back to me)
+鳴らしてよ Telephone Telephone
+One more time
+また空虚の中を
+彷徨い目を閉じる
+夢の中きっと
+覚えてる？ Telephone Telephone
+きっと君以外じゃ二度と
+こんな気持ちにはならない
+嘘じゃないよ
+Still in love love love with you
+ねえ出てよ Telephone Telephone
+声を聞かせてよ more&more
+ぶつかったこともどれも戻せない
+Still in love love love with you
+笑ったりふざけたり(I need you)
+ねえじゃれたりはもう無理？(Back to me)
+鳴らしてよ Telephone Telephone
+One more time
+```
