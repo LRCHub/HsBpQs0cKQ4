@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Telephone",
+  "base_artist": "めろくる",
+  "createdAt": "2026-03-16T09:03:48.700572Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bless the Telephone",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/01_Bless_the_Telephone_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hanging on the Telephone",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/02_Hanging_on_the_Telephone_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hanging on the Telephone",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/03_Hanging_on_the_Telephone_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "New York Telephone Conversation",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/04_New_York_Telephone_Conversation_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Telephone (Alphabeat remix)",
+      "artist": "Lady Gaga feat. Beyoncé",
+      "has_synced": false,
+      "path": "select/05_Telephone_(Alphabeat_remix)_Lady_Gaga_feat._Beyoncé.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Telephone (Ft. Beyoncé) (Alphabet Remix)",
+      "artist": "Lady Gaga",
+      "has_synced": false,
+      "path": "select/06_Telephone_(Ft._Beyoncé)_(Alphabet_Remix)_Lady_Gaga.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Telephone (feat. Beyoncé) [Ming Dub Remix]",
+      "artist": "Lady Gaga feat. Beyoncé",
+      "has_synced": false,
+      "path": "select/07_Telephone_(feat._Beyoncé)_[Ming_Dub_Remix]_Lady_Gaga_feat._Beyoncé.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Telephone",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/08_Telephone_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Telephone (featuring Beyoncé)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/09_Telephone_(featuring_Beyoncé)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Red Telephone",
+      "artist": "Love",
+      "has_synced": false,
+      "path": "select/10_The_Red_Telephone_Love.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Telephone Is Empty",
+      "artist": "Love and Rockets",
+      "has_synced": true,
+      "path": "select/11_The_Telephone_Is_Empty_Love_and_Rockets.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hanging on the Telephone",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/12_Hanging_on_the_Telephone_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Broken Telephone",
+      "artist": "The Be Good Tanyas",
+      "has_synced": false,
+      "path": "select/13_Broken_Telephone_The_Be_Good_Tanyas.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Telephone",
+      "artist": "Twin Peaks",
+      "has_synced": true,
+      "path": "select/14_Telephone_Twin_Peaks.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Telephone Banking (feat. Love Ssega)",
+      "artist": "Clean Bandit feat. Love Ssega",
+      "has_synced": true,
+      "path": "select/15_Telephone_Banking_(feat._Love_Ssega)_Clean_Bandit_feat._Love_Ssega.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Telephone Banking",
+      "artist": "Clean Bandit",
+      "has_synced": true,
+      "path": "select/16_Telephone_Banking_Clean_Bandit.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Telephone",
+      "artist": "Chaka Khan",
+      "has_synced": true,
+      "path": "select/17_Telephone_Chaka_Khan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Telephone",
+      "artist": "めろくる",
+      "has_synced": false,
+      "path": "select/pl_01_Telephone_めろくる.txt"
+    }
+  ]
+}
